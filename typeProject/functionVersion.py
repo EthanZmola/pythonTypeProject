@@ -70,8 +70,8 @@ def monkey(x,y):
             # i+=1
 
 
-    # print(printVal)
     pya.write(printVal)
+    # print(printVal)
     # cv.imshow("single letter", img2)
     # k = cv.waitKey(0)
 

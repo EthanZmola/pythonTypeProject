@@ -47,7 +47,7 @@ for pt in zip(*loc[::-1]):
 
 #cv.rectangle(img2,top_left,bottom_right, 255, 2)
 #cv.imshow("Display window", crop_img)
-#cv.imshow("Display window 2", img2)
+cv.imshow("Display window 2", img2)
 
 k = cv.waitKey(0) # Wait for a keystroke in the window
 
